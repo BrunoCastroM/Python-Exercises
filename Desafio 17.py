@@ -6,6 +6,7 @@ h=(co**2+ca**2)**(1/2)
 print('O valor do cateto oposto é {} e o do cateto adjacente é {}, e a hipotenusa resulta em {:.2f}'.format(co,ca,h))'''
 
 # Esse exercício também pode ser feito assim:²
+
 import math
 
 co = float(input('Digite o valor do cateto oposto do triângulo: '))
